@@ -1,0 +1,13 @@
+// Rooms and room cards
+Room, Dining Room, R
+Room, Enchanter's Tower, E
+Room, Alchemy Lab, L
+Room, Armory, A
+Room, Greenhouse, G
+Room, Library, Y
+Room, Blacksmith Quarter's, B
+Rom, Dungeon, D
+Room, Throne Room, T
+// other spaces on board
+Space, Unused, X
+Space, Walkway, W

@@ -1,0 +1,27 @@
+// Rooms and room cards
+Room, Dining Room, R
+Room, Enchanter's Tower, E
+Room, Alchemy Lab, L
+Room, Armory, A
+Room, Greenhouse, G
+Room, Library, Y
+Room, Blacksmith Quarter's, B
+Room, Dungeon, D
+Room, Throne Room, T
+// Other spaces on board
+Space, Unused, X
+Space, Walkway, W
+// Players
+Player, Computer, Colonel Mustard, o, 13, 10
+Player, Computer, Professor Plum, b, 13, 9
+Player, Computer, Mr. Green, g, 13, 11
+Player, Computer, Mr. Boddy, c, 14, 10
+Player, Computer, Miss Scarlett, r, 12, 12
+Player, Human, Billy the Kid, w, 12, 8
+// Weapons
+Weapon, Mage Staff
+Weapon, Mace
+Weapon, Battle Axe
+Weapon, Trebuchet
+Weapon, Bow
+Weapon, Dagger

@@ -1,0 +1,27 @@
+// Rooms and room cards
+Room, Conservatory, C
+Room, Kitchen, K
+Room, Ballroom, B
+Room, Billiard Room, R
+Room, Library, L
+Room, Study, S
+Room, Dining Room, D
+Room, Lounge, O
+Room, Hall, H
+// other spaces on board
+Space, Unused, X
+Space, Walkway, W
+// Players
+Player, Computer, Colonel Mustard, y, 13, 10
+Player, Computer, Professor Plum, b, 13, 9
+Player, Computer, Mr. Green, g, 13, 11
+Player, Computer, Mr. Boddy, c, 14, 10
+Player, Computer, Miss Scarlett, r, 11, 12
+Player, Human, Billy the Kid, o, 13, 12
+// Weapons
+Weapon, Mage Staff
+Weapon, Mace
+Weapon, Battle Axe
+Weapon, Trebuchet
+Weapon, Bow 
+Weapon, Dagger
